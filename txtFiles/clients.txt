@@ -1,0 +1,4 @@
+0$Bill$Gates$false
+1$Coco$Lee$false
+2$Warren$Buffett$false
+3$Angelina$Jolie$true

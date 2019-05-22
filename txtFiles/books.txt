@@ -1,0 +1,5 @@
+0$Data Structure$true
+1$Algorithms$true
+2$Design Patterns$false
+3$MicrosoftSQL$false
+4$Quality Control$false
